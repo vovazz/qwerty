@@ -1,1 +1,1 @@
-#include<qwertyuio.h>
+define<qwertyuio.h>
